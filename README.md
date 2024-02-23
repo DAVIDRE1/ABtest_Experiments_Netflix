@@ -23,3 +23,9 @@ Region of operability for each of these factors,
 
 
 What I used: Iterative experimentation process using Statsmodels, Pandas, NumPy and Matplotlib
+
+Performed by:
+    Sonal Shad
+    Cassie Richter
+    Inseong Han
+    David Ramirez
