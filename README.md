@@ -1,6 +1,8 @@
 # ABtest_Experiments_Netflix
 (Academic task)
 
+![image](https://github.com/DAVIDRE1/ABtest_Experiments_Netflix/assets/138836619/22917d65-5a1a-4055-8326-42fbeb169fab)
+
 Goal: Optimize Netflix browsing time
 
 Data: Simulated from  https://nathaniel-t-stevens.shinyapps.io/Netflix_Simulator_v4/
