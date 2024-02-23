@@ -7,12 +7,12 @@ Data: Simulated from  https://nathaniel-t-stevens.shinyapps.io/Netflix_Simulator
 
 • Tile Size: The ratio of a tile’s height to the overall screen height. Note the tile’s aspect ratio is fixed
 so changing this factor changes the size of the tile, but not its shape. Smaller values correspond to a
-larger number of tiles visible on the screen, and larger values correspond to fewer visible tiles.
+larger number of tiles visible on the screen, and larger values correspond to fewer visible tiles.        
 • Match Score: A prediction of how much you will enjoy watching the show or movie, based on your
 viewing history. This is recorded as a percentage, with larger values indicating a higher likelihood of
-enjoyment.
-• Preview Length: The duration (in seconds) of a show or movie’s preview.
-• Preview Type: The type of preview that is autoplayed.
+enjoyment.         
+• Preview Length: The duration (in seconds) of a show or movie’s preview.         
+• Preview Type: The type of preview that is autoplayed.         
 
 Region of operability for each of these factors, 
    Factor Code Name Region of Operability
