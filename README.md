@@ -15,11 +15,11 @@ enjoyment.
 • Preview Type: The type of preview that is autoplayed.         
 
 Region of operability for each of these factors:        
-   Factor Code Name Region of Operability       
-   Tile Size Tile.Size [0.1,0.5] default: 0.2         
-   Match Score Match.Score [0,100] default: 95       
-   Preview Length Prev.Length [30, 120] default: 75          
-   Preview Type Prev.Type {TT, AC} default: TT        
+     Factor Code Name Region of Operability       
+     Tile Size Tile.Size [0.1,0.5] default: 0.2         
+     Match Score Match.Score [0,100] default: 95       
+     Preview Length Prev.Length [30, 120] default: 75          
+     Preview Type Prev.Type {TT, AC} default: TT        
 
 
 What I used: Iterative experimentation process using Statsmodels, Pandas, NumPy and Matplotlib
